@@ -1,4 +1,4 @@
 hello this is file1
 Now this line is being added into m1f1 file in branch1 
 adding entry branch1 to test merge conflict
-
+my name is melvin
